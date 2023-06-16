@@ -1,2 +1,2 @@
 # rbx-server-info
-Get Roblox region using python &lt;3
+Too lazy to describe this title says it all
